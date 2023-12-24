@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Tue Dec 19 19:13:12 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : experiments
+Top-level Entity Name : experiments
+Family : Cyclone IV E
+Total logic elements : 532
+    Total combinational functions : 406
+    Dedicated logic registers : 369
+Total registers : 369
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 128
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

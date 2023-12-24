@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_segments[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_segments[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_segments[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_segments[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_segments[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_segments[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_segments[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_digit_en[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_digit_en[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_digit_en[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_digit_en[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

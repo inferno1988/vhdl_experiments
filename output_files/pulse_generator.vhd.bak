@@ -1,0 +1,13 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+ 
+entity pulse_generator is
+  generic(
+	 counter_size: integer
+  );
+  port (
+    i_clock      : in  std_logic;
+    o_pulse   : out  std_logic;
+    );
+end experiments;
