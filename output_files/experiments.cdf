@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP4CE6E22) Path("/home/atom/Projects/FPGA/dev_board/output_files/") File("experiments.sof") MfrSpec(OpMask(1));
+		Device PartName(EP4CE6E22) Path("/home/atom/Projects/FPGA/dev_board/output_files/") File("experiments_time_limited.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

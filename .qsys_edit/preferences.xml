@@ -7,6 +7,7 @@
    <irq preferredWidth="34" />
   </columns>
  </systemtable>
- <library expandedCategories="Project,Library" />
+ <library
+   expandedCategories="Library/Basic Functions,Library/Basic Functions/DMA,Library,Library/DSP" />
  <window width="1501" height="1061" x="70" y="27" />
 </preferences>
